@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debanjanm
 - 👀 I’m interested in Machine Learning, Deep Learning, Time Series Analysis, A/B Testing, Recommender system
 - 🌱 I’m currently learning Explainable Artificial Intelligence
-- 📫 How to reach me ...dmondal896@gmail.com
+- 📫 How to reach me: dmondal896@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
