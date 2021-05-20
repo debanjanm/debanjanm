@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debanjanm
+- 👋 Hi, I’m Debanjan Mondal
 - 👀 I’m interested in Machine Learning, Deep Learning, Time Series Analysis, A/B Testing, Recommender system
 - 🌱 I’m currently learning Explainable Artificial Intelligence
 - 📫 How to reach me: dmondal896@gmail.com
