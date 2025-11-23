@@ -19,7 +19,8 @@ This series explores playful generative applications like:
 - Audio-drama generators  
 - Storytelling agents  
 - Meme engines  
-- Fun LLM experiments  
+- Fun LLM experiments
+    
 AIF is where imagination meets AI engineering.
 
 ---
@@ -30,7 +31,8 @@ Focus areas include:
 - Education & learning assistance  
 - Healthcare triage helpers  
 - Agriculture support agents  
-- Civic-information tools  
+- Civic-information tools
+  
 AIG reflects the belief that AI should meaningfully serve society.
 
 ---
@@ -43,6 +45,7 @@ This series includes:
 - Experimental model architectures
 - Evaluation and benchmarking tools
 - Research automation workflows
+  
 AIR represents the pursuit of discovery, depth, and clarity in AI — built not just to experiment, but to understand, analyze, and advance.
 
 ---
