@@ -36,8 +36,7 @@ AIG reflects the belief that AI should meaningfully serve society.
 ---
 
 ### 🔬 AIR — AI For Research
-Research-grade projects focused on reasoning, discovery, and scientific exploration.
-AIR is dedicated to building systems that deepen understanding and push the boundaries of AI research.
+Research-grade projects focused on reasoning, discovery, and scientific exploration. AIR is dedicated to building systems that deepen understanding and push the boundaries of AI research.
 This series includes:
 - Reasoning & tool-using research agents
 - Literature search & research-RAG systems
@@ -45,6 +44,19 @@ This series includes:
 - Evaluation and benchmarking tools
 - Research automation workflows
 AIR represents the pursuit of discovery, depth, and clarity in AI — built not just to experiment, but to understand, analyze, and advance.
+
+---
+
+### 💼 AIB — AI For Business
+Practical, scalable, and value-driven AI solutions tailored for real-world business use cases. AIB focuses on building systems that automate workflows, improve decision-making, enhance productivity, and drive measurable business impact.
+This series includes:
+- Workflow automation agents
+- Sales & marketing intelligence tools
+- Customer-support chatbots and voice agents
+- Document processing, summarization & analytics pipelines
+- Business dashboards, forecasting models, and RPA-AI hybrids
+
+AIB reflects a commitment to efficiency, scalability, and ROI — engineering AI systems that don’t just work, but create business value.
 
 ---
 
