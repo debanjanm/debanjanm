@@ -35,12 +35,16 @@ AIG reflects the belief that AI should meaningfully serve society.
 
 ---
 
-## 🔬 **RAI — Raysearcher AI**  
-**Raysearcher AI** is my tribute-driven initiative inspired by **Acharya Prafulla Chandra Ray**,  
-the father of modern Indian chemistry, who said:  
-> *“The highest function of science is to serve humanity.”*
-
-Raysearcher-AI represents the research backbone of my ecosystem.
+### 🔬 AIR — AI For Research
+Research-grade projects focused on reasoning, discovery, and scientific exploration.
+AIR is dedicated to building systems that deepen understanding and push the boundaries of AI research.
+This series includes:
+- Reasoning & tool-using research agents
+- Literature search & research-RAG systems
+- Experimental model architectures
+- Evaluation and benchmarking tools
+- Research automation workflows
+AIR represents the pursuit of discovery, depth, and clarity in AI — built not just to experiment, but to understand, analyze, and advance.
 
 ---
 
